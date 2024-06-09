@@ -31,7 +31,7 @@
 
             else
             {
-                Console.WriteLine("Correct!");
+                Console.WriteLine("Nevermind.");
             }
         }
     }
